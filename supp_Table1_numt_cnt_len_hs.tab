@@ -1,0 +1,76 @@
+# add_numts2table.R supp_Table1_common_name_20220930.txt all_mtGenome_accs_class_size_20220930.tab rod_numts_hits_MD40BG_10_TFXBLNT_220930.tab new_numts_hits_MD40BG_10_TFXBLNT_220930.tab 
+hit_data
+[1] 45868
+[1] "all_tfx: 35305; hs_tfx: 33463; fn: 0.948"
+[1] "all_bg: 10563; hs_bg: 8694; fn: 0.823"
+hit_data
+[1] 19056
+[1] "all_tfx: 8988; hs_tfx: 8019; fn: 0.892"
+[1] "all_bg: 10068; hs_bg: 8435; fn: 0.838"
+fivenum hs_fract
+[1]  5.950 80.990 83.425 87.020 99.130
+[1] 69.91 81.29 83.45 87.02 99.13
+NCBI_Tax_ID	s_name	Species	Common_name	Mitochondrial_genome_accession	Nuclear_genome_accession	Nuclear_genome_size_.GB.	RefSeq.GenBank	dataset	numt_cnt	numt_len	med_len	max_len	hs_fract
+1047088	A_amphibius	Arvicola amphibius	Eurasian water vole	MN122834.1	GCA_903992535.1	2.3	GenBank	rod	290	113479	161.5	4456	83.45
+10068	A_cahirinus	Acomys cahirinus	Egyptian spiny mouse	NC_020758.1	GCA_004027535.1	2.31	GenBank	rod	753	193841	126	16168	87.12
+28377	A_carolinensis	Anolis carolinensis	green anole	EU747728.2	GCF_000090745.1	1.8	RefSeq	vert	107	61591	241	15956	85.05
+38775	A_flavipes	Antechinus flavipes	yellow-footed antechinus	NC_056379.1	GCA_016432865.1	3.19	GenBank	vert	4247	876125	121	9861	88.18
+9417	A_jamaicensis	Artibeus jamaicensis	Jamaican fruit-eating bat	NC_002009.1	GCF_014825515.1	2.21	RefSeq	vert	241	93951	141	4171	83.4
+8296	A_mexicanum	Ambystoma mexicanum	axolotl salamander	NC_005797.1	GCA_002915635.3	28.21	GenBank	vert	115	111727	265	11122	99.13
+8496	A_mississippiensis	Alligator mississippiensis	American alligator	NC_001922.1	GCF_000281125.3	2.16	RefSeq	vert	25	5741	160	1285	80
+106734	C_abingdonii	Chelonoidis abingdonii	Abingdon Island giant tortoise	NC_051472.1	GCF_003597395.1	2.3	RefSeq	vert	48	28077	123.5	9716	85.42
+51338	C_canadensis	Castor canadensis	American beaver	NC_033912.1	GCF_001984765.1	2.52	RefSeq	rod	952	710462	195	16650	89.6
+10029	C_griseus	Cricetulus griseus	Chinese hamster	NC_007936.1	GCA_000223135.1	2.4	RefSeq	rod	274	86780	143.5	6530	87.23
+45479	C_gunnisoni	Cynomys gunnisoni	Gunnisons prairie dog	MG450794.1	GCA_011316645.1	2.67	GenBank	rod	655	387696	180	7578	82.29
+34839	C_lanigera	Chinchilla lanigera	long-tailed chinchilla	NC_000884.1	GCF_000276665.1	2.39	RefSeq	rod	274	76604	161	8590	83.94
+10141	C_porcellus	Cavia porcellus	domestic guinea pig	NC_000884.1	GCF_000151735.1	2.72	RefSeq	rod	910	694125	161.5	16502	86.92
+8502	C_porosus	Crocodylus porosus	Australian saltwater crocodile	NC_008143.1	GCF_001723895.1	2.05	RefSeq	vert	45	7037	67	774	75.56
+43321	C_sociabilis	Ctenomys sociabilis	social tuco-tuco	NC_020658.1	GCA_004027165.1	2.83	GenBank	rod	1898	379373	77	15658	98.79
+33562	D_gliroides	Dromiciops gliroides	monito del monte	NC_005826.1	GCF_019393635.1	3.3	Refseq	vert	328	101347	70.5	10906	81.4
+7955	D_rerio	Danio rerio	zebra fish	NC_002333.2	GCF_000002035.6	1.68	Refseq	vert	84	4014	48	119	5.95
+885580	F_damarensis	Fukomys damarensis	Damara mole-rat	NC_027742.1	GCF_000743615.1	2.33	RefSeq	rod	295	73989	116	7165	76.27
+9031	G_gallus	Gallus gallus	chicken	NC_053523.1	GCF_016699485.2	1.05	RefSeq	vert	37	11906	99	5275	86.49
+41261	G_glis	Glis glis	fat doormouse	NC_001892.1	GCA_004027185.1	2.46	GenBank	rod	803	292056	136	9991	82.19
+10181	H_glaber	Heterocephalus glaber	naked mole-rat	NC_015112.1	GCF_000247695.1	2.62	RefSeq	rod	340	95559	121.5	10545	81.18
+9606	H_sapiens	Homo sapiens	human	NC_012920.1	GCF_000001405.39	3.27	RefSeq	rod/vert	1348	645592	134	14991	83.38
+43179	I_tridecemlineatus	Ictidomys tridecemlineatus	thirteen-lined ground squirrel	NC_027278.1	GCF_000236235.1	2.48	RefSeq	rod	636	305713	151	6284	82.7
+51337	J_jaculus	Jaculus jaculus	lesser Egyptian jerboa	NC_027278.1	GCF_000280705.1	2.84	RefSeq	rod	338	80678	133	5152	81.66
+80427	L_agilis	Lacerta agilis	sand lizard	CM020436.1	GCF_009819535.1	1.39	Refseq	vert	271	96215	151	17085	88.93
+29092	M_agrestis	Microtus agrestis	short-tailed field vole	NC_041250.1	GCA_001305995.1	3.12	GenBank	rod	625	120997	113	2391	82.4
+47230	M_arvalis	Microtus arvalis	common vole	NC_038176.1	GCA_007455615.1	2.62	GenBank	rod	2952	645240	77	9045	96.31
+10036	M_auratus	Mesocricetus auratus	golden hamster	EU660218.1	GCF_000349665.1	2.5	RefSeq	rod	477	123664	113	5990	81.76
+35658	M_coucha	Mastomys coucha	Southern multimammate mouse	NC_036018.1	GCF_008632895.1	2.51	RefSeq	rod	259	65913	128	4090	83.78
+10157	M_coypus	Myocastor coypus	nutria	NC_035866.1	GCA_004027025.1	2.9	GenBank	rod	11930	1662515	68	6714	98.11
+447135	M_glareolus	Myodes glareolus	bank vole	NC_024538.1	GCA_004368595.1	2.4	GenBank	rod	502	143693	105.5	9647	83.07
+93163	M_himalayana	Marmota himalayana	Himalayan marmot	NC_018367.1	GCA_005280165.1	2.47	GenBank	rod	476	175444	129	7931	76.68
+59463	M_lucifugus	Myotis lucifugus	little brown bat	NC_029849.1	GCF_000147115.1	2.03	Refseq	vert	203	67326	125	16082	80.79
+9888	M_muntjak	Muntiacus muntjak	muntjak	NC_004563.1	GCA_008782695.1	2.57	GenBank	rod	895	423221	172	11508	83.02
+30608	M_murinus	Microcebus murinus	gray mouse lemur	NC_028718.1	GCF_000165445.2	2.49	Refseq	vert	147	37380	99	2766	71.43
+10090	M_musculus	Mus musculus	house mouse	AY172335.1	GCF_000001635.27	2.73	RefSeq	rod/vert	310	71548	98.5	4654	83.55
+79684	M_ochrogaster	Microtus ochrogaster	prairie vole	NC_027945.1	GCF_000317375.1	2.29	RefSeq	rod	334	117168	124.5	5397	83.83
+10047	M_unguiculatus	Meriones unguiculatus	Mongolian gerbil	NC_023263.1	GCF_002204375.1	2.52	RefSeq	rod	176	48508	141	3823	78.98
+7892	N_forsteri	Neoceratodus forsteri	Australian lungfish	NC_003127.1	GCA_016271365.1	34.56	Genbank	vert	611	280659	148	7610	90.83
+1026970	N_galili	Nannospalax galili	Upper Galilee mountains blind mole rat	NC_020754.1	GCF_000622305.1	3.06	RefSeq	rod	1270	282032	86	7153	86.22
+35670	N_naja	Naja naja	Indian cobra	NC_010225.1	GCA_009733165.1	1.77	Genbank	vert	0	0	0	0	0
+9258	O_anatinus	Ornithorhynchus anatinus	platypus	NC_000891.1	GCF_004115215.2	1.86	Refseq	vert	565	91487	66	13663	69.91
+10160	O_degus	Octodon degus	degu	NC_020661.1	GCF_000260255.1	3	RefSeq	rod	425	130785	169	5044	86.12
+10060	O_zibethicus	Ondatra zibethicus	muskrat	NC_036035.1	GCA_004026605.1	2.56	GenBank	rod	805	364316	184	9884	90.19
+176946	P_bivittatus	Python bivittatus	Burmese python	NC_021479.1	GCF_000186305.1	1.44	Refseq	vert	122	18986	88	1188	84.43
+230844	P_maniculatus	Peromyscus maniculatus bairdii	prairie deer mouse	NC_039921.1	GCF_000500345.1Ê	2.63	RefSeq	rod	442	94204	110.5	4346	78.96
+7757	P_marinus	Petromyzon marinus	sea lamprey	NC_001626.1	GCF_010993605.1	1.09	Refseq	vert	54	31540	134	11894	81.48
+48139	P_obesus	Psammomys obesus	fat sand rat	NC_037509.1	GCA_002215935.1	2.31	GenBank	rod	224	85917	141	7596	80.8
+10044	P_sungorus	Phodopus sungorus	Djungarian hamster	NC_042823.1	GCA_001707965.1	2	GenBank	rod	474	130829	161	3400	86.29
+10116	R_norvegicus	Rattus norvegicus	Norway rat	NC_001665.2	GCF_000001895.5	2.87	RefSeq	rod/vert	286	86650	176.5	3027	83.22
+53275	R_pruinosus	Rhizomys pruinosus	hoary bamboo rat	NC_021478.1	GCA_009823505.1	3.71	GenBank	rod	1098	412360	128.5	9083	85.06
+10117	R_rattus	Rattus rattus	black rat	NC_012374.1	GCF_011064425.1	2.38	RefSeq	rod	168	32020	112.5	2325	76.19
+99837	S_dauricus	Spermophilus dauricus	Daurian ground squirrel	NC_027283.1	GCA_002406435.1	3.11	GenBank	rod	798	340408	153	10815	82.46
+9305	S_harrisii	Sarcophilus harrisii	Tasmanian devil	NC_018788.1	GCF_902635505.1	3.09	Refseq	vert	5319	2054696	148	16843	91.86
+42415	S_hispidus	Sigmodon hispidus	hispid cotton rat	NC_035572.1	GCA_004025045.1	2.73	GenBank	rod	789	237295	151	10095	90.37
+55149	S_vulgaris	Sciurus vulgaris	Eastern red squirrel	NC_002369.1	GCA_902686455.1	2.88	GenBank	rod	420	152575	124	10513	77.62
+9261	T_aculeatus	Tachyglossus aculeatus	echnida	CM027631.1	GCF_015852505.1	2.21	Refseq	vert	380	56457	64	3685	71.32
+61882	T_barrerae	Tympanoctomys barrerae	plains viscacha rat	NC_020792.1	GCA_002564285.1	2.65	GenBank	rod	486	138584	161	2561	89.92
+9275	T_cynocephalus	Thylacinus cynocephalus	Tasmanian wolf	NC_011944.1	GCA_007646695.1	3.1	Genbank	vert	4111	742707	133	2150	84.63
+59729	T_guttata	Taeniopygia guttata	zebra finch	NC_007897.1	GCF_003957565.2	1.05	Refseq	vert	52	27918	138.5	16028	76.92
+31033	T_rubripes	Takifugu rubripes	torafugu	NC_004299.1	GCF_901000725.2	0.38	Refseq	vert	0	0	0	0	0
+10169	T_swinderianus	Thryonomys swinderianus	greater cane rat	NC_002658.1	GCA_004025085.1	2.66	GenBank	rod	9481	982201	67	11831	97.17
+8364	X_tropicalis	Xenopus tropicalis	tropical clawed frog	NC_006839.1	GCA_000004195.4	1.45	Genbank	vert	0	0	0	0	0
